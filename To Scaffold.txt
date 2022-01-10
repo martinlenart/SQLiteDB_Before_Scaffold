@@ -1,7 +1,7 @@
 1. Compile and Run NorthwindApplication. 
 	- The DbConnections Directory is shown on the console
 	- First time you run the program make sure to copy the file "DbConnections.json" to the Configuration Directory
-	- "appsettings.json"contains the Database connection string
+	- "DbConnections.json"contains the Database connection string
 
 2. After you have copied the "DbConnections.json", re-run the program
 	- Your should have the Database Connection String as output on the console
